@@ -2,4 +2,4 @@
 img: post-1.jpg # Add image post (optional)
 ---
 
-https://kaisjacob.github.io/adam-blog//assets/img/yosh-ginsu.jpg)
+![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
